@@ -125,13 +125,14 @@ main{
    body{
       display: grid;
       grid-template-columns: 1fr;
-      grid-template-rows: 222px 530px;
+      grid-template-rows: 168px 530px;
       grid-row-gap: 64px;
       padding: 80px 164px 80px 166px
    }
 
    header{
       width: 540px;
+      height: 168px;
    }
 
    header h1{
